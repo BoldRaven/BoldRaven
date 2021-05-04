@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BoldRaven
 - 👀 I’m interested in learning how to code.
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on nothing for the moment because I'm still larning.
+- 💞️ I’m looking to collaborate with Microsoft in the futur.
 - 📫 How to reach me 
     E-mail: dutysherif@gmail.com
 
